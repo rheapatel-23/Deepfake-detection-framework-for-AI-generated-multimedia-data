@@ -57,6 +57,16 @@ python evaluate.py
 python inference.py "path/to/video.mp4"
 ```
 
+## 🎥 Demo Videos
+For quick testing, I have included sample videos in the `demos/` directory:
+- `demos/sample_real.mp4`: A verified real video.
+- `demos/sample_fake.mp4`: A deepfake video with audio/visual manipulation.
+
+Try running:
+```bash
+python inference.py "demos/sample_fake.mp4"
+```
+
 ## 📂 Project Structure
 - `model.py`: Hybrid architecture definition.
 - `data_loader.py`: Dataset sampling and structure logic.
