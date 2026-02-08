@@ -33,7 +33,6 @@ cd Deepfake-detection-framework-for-AI-generated-multimedia-data
 # Install dependencies
 pip install -r requirements.txt
 ```
-*(Note: Create a `requirements.txt` or install: `torch torchvision opencv-python librosa pandas tqdm sklearn matplotlib seaborn streamlit plotly python-docx`)*
 
 ## 📖 Usage
 
