@@ -1,0 +1,29 @@
+# Datasets
+dataset/
+FakeAVCeleb_v1.2/
+processed_data/
+
+# Models & Checkpoints
+checkpoints/
+*.pth
+*.pt
+*.onnx
+
+# Python Environment & Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.gemini/
+
+# IDE
+.vscode/
+.idea/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+
+# Output Reports (Optional, keeping report.md but ignoring docx if desired, but user might want docx)
+# Deepfake_Detection_Project_Report.docx
